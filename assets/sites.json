@@ -4,6 +4,10 @@
     "latitude": 20.7464,
     "longitude": -156.431722,
     "altitude": 100.0,
+    "y_fov": 5.0,
+    "x_fov": 5.0,
+    "height": 100,
+    "width": 100,
     "field_of_regard": [
       {
         "clock": [5.0, 175.0],
@@ -19,7 +23,31 @@
     "name": "Albuquerque",
     "latitude": 35.040222,
     "longitude": -106.609194,
-    "altitude": 1600.0,
+    "altitude": 1500.0,
+    "y_fov": 5.0,
+    "x_fov": 5.0,
+    "height": 100,
+    "width": 100,
+    "field_of_regard": [
+      {
+        "clock": [5.0, 175.0],
+        "elevation": [21, 90]
+      },
+      {
+        "clock": [185.0, 355.0],
+        "elevation": [21, 90]
+      }
+    ]
+  },
+  {
+    "name": "Porto Rico",
+    "latitude": 18.484744,
+    "longitude": -67.148942,
+    "altitude": 500.0,
+    "y_fov": 5.0,
+    "x_fov": 5.0,
+    "height": 100,
+    "width": 100,
     "field_of_regard": [
       {
         "clock": [5.0, 175.0],
@@ -31,4 +59,5 @@
       }
     ]
   }
+
 ]
