@@ -6,7 +6,7 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
-(self["webpackChunksatsim"] = self["webpackChunksatsim"] || []).push([["_382d"],{
+(self["webpackChunksatsimjs_example"] = self["webpackChunksatsimjs_example"] || []).push([["_382d"],{
 
 /***/ "?382d":
 /*!*********************!*\
@@ -14,7 +14,7 @@
   \*********************/
 /***/ (() => {
 
-eval("/* (ignored) */\n\n//# sourceURL=webpack://satsim/url_(ignored)?");
+eval("/* (ignored) */\n\n//# sourceURL=webpack://satsimjs-example/url_(ignored)?");
 
 /***/ })
 
