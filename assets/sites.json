@@ -40,10 +40,10 @@
     ]
   },
   {
-    "name": "Porto Rico",
+    "name": "Puerto Rico",
     "latitude": 18.484744,
     "longitude": -67.148942,
-    "altitude": 500.0,
+    "altitude": 50.0,
     "y_fov": 5.0,
     "x_fov": 5.0,
     "height": 100,

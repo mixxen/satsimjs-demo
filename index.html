@@ -2,7 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-<script defer src="app.js"></script></head>
+  <title>SatSimJS Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    window.SATSIM_CDN_BASE = "https://cdn.jsdelivr.net/npm/satsim@0.15.1/dist/";
+    window.CESIUM_BASE_URL = window.SATSIM_CDN_BASE;
+  </script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/satsim@0.15.1/dist/Widgets/widgets.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/satsim@0.15.1/dist/Widgets/InfoBox/InfoBoxDescription.css">
+  <link rel="stylesheet" href="index.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/satsim@0.15.1/dist/satsim.js"></script>
+  <script defer src="app.js"></script>
+</head>
 <body>
   <div id="cesiumContainer"></div>
 </body>
